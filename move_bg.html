@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @keyframes moveimg{
+            25%{background-image: url(image/1.jpg);}
+            50%{background-image: url(image/2.jpg);}
+            75%{background-image: url(image/4.jpg);}
+            100%{background-image: url(image/5.jpg);}
+        }
+        body{
+            background-image: url("image/1.jpg");
+            background-repeat: no-repeat;
+            background-size: 1366px 768px;
+            animation-name: moveimg;
+            animation-duration: 15s;
+            animation-iteration-count: infinite;
+        }
+    </style>
+</head>
+<body>
+    
+</body>
+</html>
