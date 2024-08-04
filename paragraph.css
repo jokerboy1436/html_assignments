@@ -1,0 +1,27 @@
+p
+{
+background-color: orange;
+color: black;
+font-size: 20px;
+text-align: left;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.head{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+.top{
+    background-color: yellow;
+}
+.odd{
+    background-color: aqua;
+    }
+.even{
+    background-color: orange;
+    }
