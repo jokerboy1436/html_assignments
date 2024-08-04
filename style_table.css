@@ -1,0 +1,12 @@
+table
+{
+border: 0.2rem solid purple;
+border-collapse: collapse;
+background-color: aqua;
+}
+.odd{
+    background-color: aqua;
+    }
+.even{
+    background-color: bisque;
+    }
