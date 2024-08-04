@@ -1,0 +1,22 @@
+table
+{
+border: 0.2rem solid purple;
+border-collapse: collapse;
+background-color: orange;
+color: blue;
+font-weight: bold;
+font-style: italic;
+font-size: 36px;
+text-align: center;
+table-layout: auto;
+width: 600px;
+line-height: 90px;
+}
+.top{
+    background-color: yellow;
+}
+.odd{
+    background-color: aqua;
+    }
+.even{
+    background-color: bisque;
